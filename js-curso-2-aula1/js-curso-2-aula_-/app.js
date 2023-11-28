@@ -40,7 +40,7 @@ function reiniciarJogo() {
     exibirMensagemInicial ();
     document.getElementById ('reiniciar').setAttribute('disabled', false);
     //este último atributo foi colocado para desativar o botão novo jogo quando ainda
-    //não foi acertado o número secreto. 
+    //não foi acertado o número secreto.
 }
 
 /* Esta função tem a responsabilidade de trazer os testos na tela
