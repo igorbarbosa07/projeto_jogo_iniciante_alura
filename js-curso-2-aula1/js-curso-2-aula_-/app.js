@@ -1,3 +1,4 @@
+//teste de sincronização
 //nesta primeira parte estamos adicionando conteúdos dentro das
 //tagas do HTML, no HTML não é interessante que tenha mudanças de conteúdos, 
 //estas mudanças podem ser feitas no JavaScript. 
